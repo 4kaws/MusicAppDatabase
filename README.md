@@ -1,13 +1,13 @@
 # Music app database
-Search bar pentru albume;
-Imagine specifică fieacărui album;
-Posibilitatea de a adăuga direct din interfață albume noi;
-Posibilitatea de a șterge melodii dintr-un anumit album;
-Listă cu albumele;
-Listă cu melodiile;
+Search bar for albums;
+Image specific to each album;
+The ability to add new albums directly from the interface;
+Ability to delete songs from a specific album;
+List of albums;
+Tracklist;
 
 --
- Cand se deschide aplicația trebuie încarcate din baza de date după care se pot utiliza toate celelalte opțiuni ale aplicației.
+When the application is opened, they must be loaded from the database, after this step all other options of the application can be used.
 --
 
-![Interfata grafica](https://github.com/4kaws/MusicAppDatabase/assets/58399588/01704f89-4208-4f02-be04-096b1a250f35)
+![UI](https://github.com/4kaws/MusicAppDatabase/assets/58399588/01704f89-4208-4f02-be04-096b1a250f35)
